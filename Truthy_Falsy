@@ -1,0 +1,8 @@
+Const userinput prompt = ("Enter something");
+if userinput{
+    console.log = "Truthy"
+}
+else userinput{
+    console.log ="Falsy"
+}
+
